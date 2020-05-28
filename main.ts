@@ -12,8 +12,8 @@ namespace icons {
     */
     //%  @param icon_name, e.g. owl
     //% blockId=use_existing block="use existing icon %icon_name" blockGap=8
-    export function fbar(icon_name: string): void {
-        console.log(icon_name)
+    export function fba(sel: string): void {
+        console.log(sel)
     }
 
 }
