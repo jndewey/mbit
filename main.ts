@@ -1,8 +1,6 @@
 /// <reference no-default-lib="true"/>
 
 /**
-
-icons.useExistingIcon("")
  * Easier to use icon library.
  */
 //% color=#007EF4 weight=96 icon="\uf294"
