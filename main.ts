@@ -1,4 +1,6 @@
 /// <reference no-default-lib="true"/>
+bluetooth.startIOPinService()
+
 /**
  * Easier to use icon library.
  */
@@ -7,6 +9,7 @@ namespace icons {
 
     /**
     *  Use existing icon
+    * @param icon_name, e.g. owl
     */
     //% blockId=use_existing_icon block="use existing icon" blockGap=8
     export function useExistingIcon(icon_name: string): void {
