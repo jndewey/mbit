@@ -5,7 +5,8 @@
     "dependencies": {
         "core": "*",
         "servo": "*",
-        "devices": "*"
+        "devices": "*",
+        "bluetooth": "*"
     },
     "files": [
         "README.md",

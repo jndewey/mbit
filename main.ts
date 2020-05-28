@@ -8,9 +8,10 @@ bluetooth.startIOPinService()
 namespace icons {
 
     /**
-    *  Use existing icon
-    * @param icon_name, e.g. owl
+    * Use existing icon
+    *
     */
+    //%  @param icon_name, e.g. owl
     //% blockId=use_existing_icon block="use existing icon" blockGap=8
     export function useExistingIcon(icon_name: string): void {
         console.log(icon_name)
