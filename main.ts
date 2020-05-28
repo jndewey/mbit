@@ -14,7 +14,7 @@ namespace icons {
     */
     //%  @param icon_name, e.g. owl
     //% blockId=use_existing block="use existing icon %icon_name" blockGap=8
-    export function useExistingIco(icon_name: string): void {
+    export function foobar(icon_name: string): void {
         console.log(icon_name)
     }
 
