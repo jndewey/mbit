@@ -5,7 +5,7 @@
  * Easier to use icon library.
  */
 //% color=#007EF4 weight=96 icon="\uf294"
-namespace icons {
+namespace fun_icons {
 
     /**
     * Use existing icon
