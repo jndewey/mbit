@@ -6,7 +6,8 @@
         "core": "*",
         "servo": "*",
         "devices": "*",
-        "bluetooth": "*"
+        "bluetooth": "*",
+        "microbit": "workspace:8ffea57c-2256-455d-4602-5af12adbfb86"
     },
     "files": [
         "README.md",
@@ -17,5 +18,5 @@
     ],
     "public": false,
     "preferredEditor": "tsprj",
-    "installedVersion": "workspace:c42f3556-7156-4c17-ac1d-19547701a79e"
+    "installedVersion": "workspace:8ffea57c-2256-455d-4602-5af12adbfb86"
 }

@@ -1,7 +1,7 @@
 /// <reference no-default-lib="true"/>
 
-/**
 
+/**
  * Easier to use icon library.
  */
 //% color=#007EF4 weight=96 icon="\uf294"
